@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-size: 25px;
+}
+#wrapper{
+    /*background-color: cornflowerblue;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 98vh;
+}
+header, main, address{
+    width: 80vw;
+}
+header, address{
+    background-color: #216ABB;
+    height: 25vh;
+    padding-top: 12.5vh;
+    padding-left: 38vw;
+}
+main{
+    height: 40vh;
+    width: 80vw;
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    width: 20vw;
+    background-color: #16457A;
+    padding-top: 20vh;
+    padding-left: 6.3vw;
+}
