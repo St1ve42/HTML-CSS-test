@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+header, footer{
+    background: #D9D9D9;
+    height: 21.84vh;
+}
+main{
+    background-color: grey;
+    height: 56.32vh;
+    display: flex;
+}
+main aside{
+    background: #C0BDBD;
+    width: 26.85vw;
+    height: 100%;
+}
+.main-section{
+    height: 100%;
+    width: 46.3vw;
+}
+.main-section-top, .main-section-bottom{
+    height: 50%;
+}
+.main-section-top{
+    background: #827878;
+}
+.main-section-bottom{
+    background: #B7ADAD;
+}
