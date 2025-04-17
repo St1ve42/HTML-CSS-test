@@ -19,12 +19,12 @@ main aside{
     height: 100%;
     width: 46.3vw;
 }
-.main-section-top, .main-section-bottom{
+.main-top-section, .main-bottom-section{
     height: 50%;
 }
-.main-section-top{
+.main-top-section{
     background: #827878;
 }
-.main-section-bottom{
+.main-bottom-section{
     background: #B7ADAD;
 }
