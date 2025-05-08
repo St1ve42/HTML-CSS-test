@@ -33,6 +33,9 @@ body > div{
     position: absolute;
     top: -50px;
 }
+.block-2 .logo{
+    border-color: #65856E;
+}
 .block-1{
     border-color: #554C4C;
 }
