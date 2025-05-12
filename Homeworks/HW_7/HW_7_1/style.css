@@ -6,9 +6,9 @@
 body{
     height: 100vh;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
-    gap: 120px;
+    gap: 30px;
 }
 body > div{
     width: 319px;
@@ -33,16 +33,16 @@ body > div{
     position: absolute;
     top: -50px;
 }
-.block-2 .logo{
+.card-2 .logo{
     border-color: #65856E;
 }
-.block-1{
+.card-1{
     border-color: #554C4C;
 }
-.block-2{
+.card-2{
     border-color: #65856E;
 }
-.block-3 {
+.card-3 {
     border-color: #554C4C;
 }
 body > div h3{
