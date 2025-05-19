@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    width: 1180px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.item{
+    width: 271px;
+    height: 100%;
+}
+.item img{
+    border-radius: 160px;
+}
+.item h3{
+    color: #161543;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 120%; /* 24px */
+    margin-top: 20px;
+}
+.item p{
+    color: #7687A1;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+    margin-top: 10px;
+}

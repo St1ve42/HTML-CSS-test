@@ -1,0 +1,8 @@
+@media screen and (min-width: 375px) and (max-width: 768px) {
+    .items{
+        width: 343px;
+        display: flex;
+        gap: 40px;
+        margin: 32px auto;
+    }
+}
