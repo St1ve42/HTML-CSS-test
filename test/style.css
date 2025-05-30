@@ -4,8 +4,13 @@ header, section, article, footer {
     justify-content: center;
 }
 .w-1250{
-    width: 1250px;
+    width: 100%;
+    max-width: 1250px;
     height: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
 }
 header{
     width: 100%;
