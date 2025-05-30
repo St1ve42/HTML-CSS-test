@@ -1,0 +1,25 @@
+@media screen and (max-width: 1250px){
+    .blog{
+        height: 4200px;
+    }
+    .category{
+        height: 780px;
+    }
+    .introduction{
+        height: 1110px;
+    }
+    .w-1250{
+        margin-left: 20px;
+    }
+    .introduction_items{
+        flex-direction: column;
+        justify-content: center;
+        gap: 133px;
+    }
+    /*.header_items{*/
+    /*    justify-content: center;*/
+    /*}*/
+    header{
+        height: 110px;
+    }
+}
